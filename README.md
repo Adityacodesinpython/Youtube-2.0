@@ -3,7 +3,8 @@ A fully customised and advanced version of youtube made using React
 
 ## Getting Started 
 In the project directory, you can run:
-
+### `npm i`
+Installs all the necessary dependencies
 ### `npm start`
 
 Runs the app in the development mode.\
